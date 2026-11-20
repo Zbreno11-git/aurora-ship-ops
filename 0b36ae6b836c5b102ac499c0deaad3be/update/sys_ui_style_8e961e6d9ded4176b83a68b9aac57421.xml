@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>estimated_cost</element>
+        <name>x_2316811_aurora_0_equip_req</name>
+        <style>text-align:right;width:120px;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+        <sys_id>8e961e6d9ded4176b83a68b9aac57421</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2316811_aurora_0_equip_req</sys_name>
+        <sys_package display_value="Aurora Ship Ops" source="x_2316811_aurora_0">0b36ae6b836c5b102ac499c0deaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aurora Ship Ops">0b36ae6b836c5b102ac499c0deaad3be</sys_scope>
+        <sys_update_name>sys_ui_style_8e961e6d9ded4176b83a68b9aac57421</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+        <themed_style>text-align: right; width: 120px;</themed_style>
+        <value>javascript:!(parseFloat(current.getValue('estimated_cost')) &gt; 1000)</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e961e6d9ded4176b83a68b9aac57421"/>
+</record_update>

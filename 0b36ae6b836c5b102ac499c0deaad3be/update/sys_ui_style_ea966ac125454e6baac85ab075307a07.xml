@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt>Computer equipment</alt>
+        <element>equipment_type</element>
+        <name>x_2316811_aurora_0_equip_req</name>
+        <style>background-color:#E3B23C;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+        <sys_id>ea966ac125454e6baac85ab075307a07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2316811_aurora_0_equip_req</sys_name>
+        <sys_package display_value="Aurora Ship Ops" source="x_2316811_aurora_0">0b36ae6b836c5b102ac499c0deaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aurora Ship Ops">0b36ae6b836c5b102ac499c0deaad3be</sys_scope>
+        <sys_update_name>sys_ui_style_ea966ac125454e6baac85ab075307a07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+        <themed_style>background-color: #E3B23C;</themed_style>
+        <value>computer</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea966ac125454e6baac85ab075307a07"/>
+</record_update>
