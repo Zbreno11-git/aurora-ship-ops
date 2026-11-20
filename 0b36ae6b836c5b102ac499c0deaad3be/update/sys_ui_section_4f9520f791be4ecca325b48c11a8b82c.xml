@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>82c16e863575447fa8f3422c745ce27f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>equipment_type</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>650a966175ff4f7793f146e1005cfe3e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>needed_by</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>2412903c7a6b42988cc84f78dad76385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>02adb2f0463141369eb1d74332a3e180</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>estimated_cost</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>7897d386c59042049c82bc3c7840eca9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>8c538aeaba494417a4c068dbb02fd48d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -88,27 +88,13 @@
             <element>justification</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:19:34</sys_created_on>
+            <sys_created_on>2026-11-20 15:24:27</sys_created_on>
             <sys_id>e8f3a82520fd42b89441291bc46fcf37</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:19:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority_reason</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-11-20 15:20:12</sys_created_on>
-            <sys_id>b0eaa6e383ac5b102ac499c0deaad3ca</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Equipment Request" display_value="Equipment Request" name="x_2316811_aurora_0_equip_req" sys_domain="global" view="Default view">4f9520f791be4ecca325b48c11a8b82c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-11-20 15:20:12</sys_updated_on>
+            <sys_updated_on>2026-11-20 15:24:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
