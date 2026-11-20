@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_2316811_aurora_0_equip_req">x_2316811_aurora_0_equip_req</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EQR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-20 15:01:35</sys_created_on>
+        <sys_id>4371e5e197724b849ff62af4e3d6b37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EQR</sys_name>
+        <sys_package display_value="Aurora Ship Ops" source="x_2316811_aurora_0">0b36ae6b836c5b102ac499c0deaad3be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aurora Ship Ops">0b36ae6b836c5b102ac499c0deaad3be</sys_scope>
+        <sys_update_name>sys_number_4371e5e197724b849ff62af4e3d6b37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-20 15:01:35</sys_updated_on>
+    </sys_number>
+</record_update>

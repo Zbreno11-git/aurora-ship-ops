@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="f4027ec909ca4f2aa52ad915e5a56083" extends="task" label="Equipment Request" name="x_2316811_aurora_0_equip_req" type="collection">
+        <element label="Justification" max_length="1000" name="justification" type="string"/>
+        <element label="Needed by" name="needed_by" type="glide_date"/>
+        <element label="Priority reason" max_length="100" name="priority_reason" type="string"/>
+        <element label="Estimated cost" name="estimated_cost" type="currency"/>
+        <element choice="1" label="Equipment type" name="equipment_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Computer" sequence="400" value="computer"/>
+                <element inactive_on_update="false" label="Radio" sequence="300" value="radio"/>
+                <element inactive_on_update="false" label="Video" sequence="200" value="video"/>
+                <element inactive_on_update="false" label="Other" sequence="500" value="other"/>
+                <element inactive_on_update="false" label="Audio" sequence="100" value="audio"/>
+            </choice>
+        </element>
+    </element>
+</database>
